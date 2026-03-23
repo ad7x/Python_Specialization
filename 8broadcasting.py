@@ -1,0 +1,13 @@
+import numpy as np
+
+a =np.array([[1,2,3,4],[5,6,7,8]])
+
+b=np.array([2,2,3,2])
+
+print(""" 
+
+JO KM HOGA CHAHE ROW YA COLUMN USSE JYADA TARAF FAILA KE PURA COMPLETE KRNA H TAKI VECTOR ADDITION YA OTHER OPERATION PERFORM HO SKE VECTOR PE
+
+""")
+
+print(a+b)
